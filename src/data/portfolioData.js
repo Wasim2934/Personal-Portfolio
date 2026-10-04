@@ -4,18 +4,18 @@
 // ---------------------------------------------------------------------------
 
 export const profile = {
-  name: 'Muhammad Arham',
-  firstName: 'Muhammad',
-  lastName: 'Arham',
-  role: 'Front-End Developer / Software Engineer',
+  name: 'Md Wasim Ansari',
+  firstName: 'Md Wasim',
+  lastName: 'Ansari',
+  role: 'Full Stack Developer / Software Engineer',
   tagline:
     'I Build Responsive, Scalable, and User-Centric Web Applications with Clean, Maintainable Code.',
-  location: 'Lahore, Pakistan',
-  email: 'muhammadarham2177@gmail.com',
-  phone: '+92-336-6641190',
+  location: 'Godda, Jharkhand, India',
+  email: 'wasimfullstackdev9to5@gmail.com',
+  phone: '+91 7482938139',
   linkedin: 'https://www.linkedin.com/in/muhammad-arham-b12683331',
   github: 'https://github.com/muhammad-arham-dev',
-  resumeUrl: '/Muhammad-Arham-Resume.pdf',
+  resumeUrl: '/Md-Wasim-Ansari-Resume.pdf',
   avatar: '/profile.jpg',
   creation: '/hero.jpg',
   available: true,
@@ -59,7 +59,7 @@ export const about = {
     "I care about writing clean, maintainable code and enjoy the process of turning a rough idea into a polished, working interface — then figuring out how to make it a little faster or a little clearer. Currently looking for a Front-End or Full-Stack role where I can keep building real products and keep growing as an engineer.",
   ],
   details: [
-    { label: 'Name', value: 'Muhammad Arham' },
+    { label: 'Name', value: 'Md Wasim Ansari' },
     { label: 'Role', value: 'Software Engineer' },
     { label: 'Based in', value: 'Lahore, Pakistan' },
     { label: 'Phone', value: '+92-336-6641190' },

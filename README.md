@@ -1,4 +1,4 @@
-# 🚀 Muhammad Arham Portfolio
+# 🚀 Md Wasim Ansari Portfolio
 
 A modern personal portfolio website built with React, Vite, and Tailwind CSS. The site showcases my work, experience, education, skills, and contact information in a polished, responsive layout.
 
@@ -97,4 +97,4 @@ This portfolio includes:
 
 ---
 
-Made with ❤️ by Muhammad Arham
+Made with ❤️ by Md Wasim Ansari

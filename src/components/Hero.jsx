@@ -31,6 +31,8 @@ export default function Hero() {
             <span className="bg-gradient-to-r from-mint-400 to-mint-600 bg-clip-text text-transparent">
               Wasim
             </span>
+            <br />
+            <span className="text-paper-100">Ansari</span>
           </h1>
 
           <div className="mt-6 h-8 font-mono text-lg sm:text-xl">
@@ -94,7 +96,7 @@ export default function Hero() {
             <div className="relative z-10 w-[78%] aspect-square rounded-full overflow-hidden border border-mint-500/30">
               <img
                 src={profile.creation}
-                alt="Muhammad Arham"
+                alt="Md Wasim Ansari"
                 className="w-full h-full object-cover"
               />
             </div>
@@ -121,7 +123,7 @@ export default function Hero() {
                 <span className="text-amber-400">const</span> dev = {"{"}
                 <br />
                 &nbsp;&nbsp;name:{" "}
-                <span className="text-mint-400">"Muhammad Arham"</span>,
+                <span className="text-mint-400">"Md Wasim Ansari"</span>,
                 <br />
                 &nbsp;&nbsp;stack:{" "}
                 <span className="text-mint-400">"React / Next.js"</span>,
