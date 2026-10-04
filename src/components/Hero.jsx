@@ -1,8 +1,14 @@
-import { profile, socials, stack } from '../data/portfolioData'
-import { ArrowRightIcon, DownloadIcon, GithubIcon, LinkedinIcon, MailIcon } from './Icons'
-import TypedRole from './TypedRole'
+import { profile, socials, stack } from "../data/portfolioData";
+import {
+  ArrowRightIcon,
+  DownloadIcon,
+  GithubIcon,
+  LinkedinIcon,
+  MailIcon,
+} from "./Icons";
+import TypedRole from "./TypedRole";
 
-const ICONS = { github: GithubIcon, linkedin: LinkedinIcon, mail: MailIcon }
+const ICONS = { github: GithubIcon, linkedin: LinkedinIcon, mail: MailIcon };
 
 export default function Hero() {
   return (
@@ -20,17 +26,17 @@ export default function Hero() {
           <p className="eyebrow mb-6">Welcome to my portfolio</p>
 
           <h1 className="font-display font-semibold text-[2.6rem] leading-[1.05] sm:text-6xl md:text-[4.2rem] text-paper-100 tracking-tight">
-            Muhammad
+            Md
             <br />
             <span className="bg-gradient-to-r from-mint-400 to-mint-600 bg-clip-text text-transparent">
-              Arham
+              Wasim
             </span>
           </h1>
 
           <div className="mt-6 h-8 font-mono text-lg sm:text-xl">
-            <span className="text-paper-500">{'<'} </span>
+            <span className="text-paper-500">{"<"} </span>
             <TypedRole />
-            <span className="text-paper-500"> {'/>'}</span>
+            <span className="text-paper-500"> {"/>"}</span>
           </div>
 
           <p className="section-sub">{profile.tagline}</p>
@@ -57,19 +63,19 @@ export default function Hero() {
             </span>
             <div className="flex items-center gap-3">
               {socials.map(({ label, href, icon }) => {
-                const Icon = ICONS[icon]
+                const Icon = ICONS[icon];
                 return (
                   <a
                     key={label}
                     href={href}
-                    target={href.startsWith('http') ? '_blank' : undefined}
+                    target={href.startsWith("http") ? "_blank" : undefined}
                     rel="noreferrer"
                     aria-label={label}
                     className="w-10 h-10 rounded-full border border-ink-border/14 flex items-center justify-center text-paper-300 hover:text-mint-400 transition-all duration-300 icon-hover-glow"
                   >
                     <Icon />
                   </a>
-                )
+                );
               })}
             </div>
           </div>
@@ -95,10 +101,10 @@ export default function Hero() {
 
             {/* floating code-tag badges, echoing the reference layout */}
             <span className="absolute top-2 left-0 sm:-left-2 card w-11 h-11 flex items-center justify-center font-mono text-xs text-mint-400 animate-float float-paused float-on-hover [animation-delay:0.3s] cursor-pointer hover:border-mint-400 hover:shadow-[0_0_12px_rgba(79,227,194,0.5),inset_0_0_12px_rgba(79,227,194,0.2)] transition-all duration-300">
-              {'</>'}
+              {"</>"}
             </span>
             <span className="absolute top-16 right-0 sm:-right-3 card w-11 h-11 flex items-center justify-center font-mono text-xs text-mint-400 animate-float float-paused float-on-hover [animation-delay:0.9s] cursor-pointer hover:border-mint-400 hover:shadow-[0_0_12px_rgba(79,227,194,0.5),inset_0_0_12px_rgba(79,227,194,0.2)] transition-all duration-300">
-              {'{ }'}
+              {"{ }"}
             </span>
 
             {/* floating terminal card */}
@@ -107,21 +113,23 @@ export default function Hero() {
                 <span className="w-2.5 h-2.5 rounded-full bg-[#F2564C]" />
                 <span className="w-2.5 h-2.5 rounded-full bg-amber-400" />
                 <span className="w-2.5 h-2.5 rounded-full bg-mint-500" />
-                <span className="ml-2 font-mono text-[10px] text-paper-500">whoami.js</span>
+                <span className="ml-2 font-mono text-[10px] text-paper-500">
+                  whoami.js
+                </span>
               </div>
               <p className="font-mono text-xs leading-relaxed text-paper-300">
-                <span className="text-amber-400">const</span> dev = {'{'}
+                <span className="text-amber-400">const</span> dev = {"{"}
                 <br />
-                &nbsp;&nbsp;name:{' '}
+                &nbsp;&nbsp;name:{" "}
                 <span className="text-mint-400">"Muhammad Arham"</span>,
                 <br />
-                &nbsp;&nbsp;stack:{' '}
+                &nbsp;&nbsp;stack:{" "}
                 <span className="text-mint-400">"React / Next.js"</span>,
                 <br />
-                &nbsp;&nbsp;status:{' '}
+                &nbsp;&nbsp;status:{" "}
                 <span className="text-mint-400">"Open to Work"</span>
                 <br />
-                {'}'}
+                {"}"}
               </p>
             </div>
 
@@ -131,7 +139,9 @@ export default function Hero() {
                   <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-mint-400 opacity-75" />
                   <span className="relative inline-flex rounded-full h-2 w-2 bg-mint-500" />
                 </span>
-                <span className="font-mono text-[11px] text-paper-300">Available for work</span>
+                <span className="font-mono text-[11px] text-paper-300">
+                  Available for work
+                </span>
               </div>
             )}
           </div>
@@ -142,7 +152,10 @@ export default function Hero() {
       <div className="mt-24 border-y border-ink-border/14 py-5 overflow-hidden marquee-container">
         <div className="flex w-max animate-marquee gap-10 font-mono text-sm text-paper-500">
           {[...stack, ...stack].map((tech, i) => (
-            <span key={`${tech}-${i}`} className="flex items-center gap-10 shrink-0">
+            <span
+              key={`${tech}-${i}`}
+              className="flex items-center gap-10 shrink-0"
+            >
               {tech}
               <span className="text-mint-500/50">◆</span>
             </span>
@@ -150,5 +163,5 @@ export default function Hero() {
         </div>
       </div>
     </section>
-  )
+  );
 }

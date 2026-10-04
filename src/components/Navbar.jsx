@@ -36,11 +36,11 @@ export default function Navbar() {
 
           <span className="flex flex-col leading-none min-w-0">
             <span className="font-display text-sm font-semibold text-paper-100 group-hover:text-mint-400 transition-colors tracking-wide">
-              M. ARHAM
+              MD WASIM
             </span>
 
             <span className="font-mono text-[10px] tracking-[0.2em] text-paper-500 uppercase mt-1">
-              Front-End Dev
+              Full Stack Dev
             </span>
           </span>
         </a>
