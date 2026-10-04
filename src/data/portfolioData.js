@@ -17,8 +17,8 @@ export const profile = {
   github: 'https://github.com/Wasim2934',
 
   resumeUrl: '/Md-Wasim-Ansari-Resume.pdf',
-  
-  avatar: '/profile.jpg',
+
+  avatar: '/profile.jpeg',
   creation: '/hero.jpg',
   available: true,
 }
@@ -63,9 +63,9 @@ export const about = {
   details: [
     { label: 'Name', value: 'Md Wasim Ansari' },
     { label: 'Role', value: 'Software Engineer' },
-    { label: 'Based in', value: 'Lahore, Pakistan' },
-    { label: 'Phone', value: '+92-336-6641190' },
-    { label: 'Email', value: 'muhammadarham2177@gmail.com' },
+    { label: 'Based in', value: 'Godda, Jharkhand, India' },
+    { label: 'Phone', value: '+91 7482938139' },
+    { label: 'Email', value: 'wasimfullstackdev9to5@gmail.com' },
     { label: 'Focus', value: 'Front-End / Full-Stack' },
   ],
 }
