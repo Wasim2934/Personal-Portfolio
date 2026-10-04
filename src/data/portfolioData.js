@@ -13,9 +13,11 @@ export const profile = {
   location: 'Godda, Jharkhand, India',
   email: 'wasimfullstackdev9to5@gmail.com',
   phone: '+91 7482938139',
-  linkedin: 'https://www.linkedin.com/in/muhammad-arham-b12683331',
-  github: 'https://github.com/muhammad-arham-dev',
+  linkedin: 'https://www.linkedin.com/in/md-wasim-ansari-b78865395/',
+  github: 'https://github.com/Wasim2934',
+
   resumeUrl: '/Md-Wasim-Ansari-Resume.pdf',
+  
   avatar: '/profile.jpg',
   creation: '/hero.jpg',
   available: true,
