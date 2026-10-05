@@ -40,10 +40,10 @@ export default function About() {
               <span className="text-mint-400"><BracesIcon width={16} height={16} /></span>
               <div className="text-left">
                 <p className="font-mono text-[9px] text-paper-500 uppercase tracking-wide leading-none">
-                  Frontend
+                  Full Stack
                 </p>
                 <p className="font-mono text-[9px] text-paper-500 uppercase tracking-wide leading-none">
-                  Developer
+                  Engineer
                 </p>
               </div>
             </div>
