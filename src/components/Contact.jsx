@@ -6,7 +6,7 @@ import useReveal from '../hooks/useReveal'
 /**
  * EMAIL SETUP:
  * Using FormSubmit.co - completely free, no setup required!
- * The form automatically sends to: muhammadarham2177@gmail.com
+ * The form automatically sends to: wasimfullstackdev9to5@gmail.com
  */
 
 export default function Contact() {
@@ -23,7 +23,7 @@ export default function Contact() {
 
   try {
     const response = await fetch(
-      'https://formsubmit.co/ajax/muhammadarham2177@gmail.com',
+      'https://formsubmit.co/ajax/wasimfullstackdev9to5@gmail.com',
       {
         method: 'POST',
         headers: {
