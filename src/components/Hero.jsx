@@ -126,7 +126,7 @@ export default function Hero() {
                 <span className="text-mint-400">"Md Wasim Ansari"</span>,
                 <br />
                 &nbsp;&nbsp;stack:{" "}
-                <span className="text-mint-400">"React / Next.js"</span>,
+                <span className="text-mint-400">"Full Stack / AI"</span>,
                 <br />
                 &nbsp;&nbsp;status:{" "}
                 <span className="text-mint-400">"Open to Work"</span>
