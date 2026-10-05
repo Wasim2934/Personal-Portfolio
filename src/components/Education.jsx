@@ -1,6 +1,6 @@
-import { education, certifications } from '../data/portfolioData'
+import { certifications } from '../data/portfolioData'
 import useReveal from '../hooks/useReveal'
-
+   
 export default function Education() {
   const ref = useReveal()
 

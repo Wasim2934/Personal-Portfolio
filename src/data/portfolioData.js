@@ -32,7 +32,7 @@ export const socials = [
 export const navLinks = [
   { label: "Home", href: "#home" },
   { label: "About", href: "#about" },
-  { label: "Education", href: "#education" },
+  { label: "Certifications", href: "#education" },
   { label: "Skills", href: "#skills" },
   { label: "Experience", href: "#experience" },
   { label: "Projects", href: "#projects" },
@@ -40,15 +40,16 @@ export const navLinks = [
 ];
 
 export const stack = [
+  "HTML5",
+  "CSS3",
   "React.js",
   "Next.js",
   "JavaScript",
   "TailwindCSS",
-  "HTML5",
-  "CSS3",
-  "Python",
-  "Django",
   "REST APIs",
+  "Node.js",
+  "Express.js",
+  "MongoDB",
   "Git",
   "GitHub",
   "Vercel",
