@@ -11,7 +11,7 @@ export const profile = {
   tagline:
     "Building Full-Stack Web Applications and AI-Powered Solutions with Modern Technologies and Clean, Scalable Code.",
   location: "Godda, Jharkhand, India",
-  email: "wasimfullstackdev9to5@gmail.com",
+  email: "mdwasimlesnar0029@gmail.com",
   phone: "+91 7482938139",
   linkedin: "https://www.linkedin.com/in/md-wasim-ansari-b78865395/",
   github: "https://github.com/Wasim2934",
@@ -66,7 +66,7 @@ export const about = {
     { label: "Role", value: "Software Engineer" },
     { label: "Based in", value: "Godda, Jharkhand, India" },
     { label: "Phone", value: "+91 7482938139" },
-    { label: "Email", value: "wasimfullstackdev9to5@gmail.com" },
+    { label: "Email", value: "mdwasimlesnar0029@gmail.com" },
     { label: "Focus", value: "Full-Stack" },
   ],
 };
