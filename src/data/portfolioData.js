@@ -104,12 +104,12 @@ export const education = [
 export const certifications = [
   {
     id: "meta-fe",
-    title: "SkillForge Full Stack developer Certificate",
+    title: "SkillForge - MERN Stack developer Certificate",
     issuer: "SkillForge",
   },
   {
     id: "ibm-py",
-    title: "AI Powered Full Stack Developer Certificate",
+    title: "AI-Powered Full Stack Engineer Certificate",
     issuer: "Sheriyans Coding School",
   },
 ];

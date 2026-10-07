@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 
-const ROLES = ['Front-End Developer', 'Software Engineer', 'React.js Developer']
+const ROLES = ['Full-Stack Developer', 'Software Engineer', 'Frontend Developer', 'Backend Developer']
 
 export default function TypedRole() {
   const [roleIndex, setRoleIndex] = useState(0)
