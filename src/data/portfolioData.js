@@ -139,7 +139,7 @@ export const experience = [
   {
     id: "grayphite",
     company: "CodSoft — Internship Program 2025",
-    role: "Software Engineer Intern",
+    role: "Full Stack Developer Intern",
     period: "Dec 2025 — Jan 2026",
     points: [
       "Worked as a Front-End Developer Intern focusing on modern web technologies and responsive UI development.",
