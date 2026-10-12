@@ -21,7 +21,7 @@ export const profile = {
   avatar: "/profile.jpeg",
   creation: "/hero.jpg",
   available: true,
-};
+};               
 
 export const socials = [
   { label: "GitHub", href: profile.github, icon: "github" },
