@@ -4,9 +4,8 @@ A modern personal portfolio website built with React, Vite, and Tailwind CSS. Th
 
 🔗 **Live Demo:** - https://personal-portfolio-rc4w.onrender.com
 
-🔗 Live Demo: - https://personal-portfolio-rc4w.onrender.com
+Live Demo: - https://personal-portfolio-rc4w.onrender.com
 
-🔗 **[Live Demo](https://personal-portfolio-rc4w.onrender.com)**.
 ---
 
 ## ✨ Highlights
