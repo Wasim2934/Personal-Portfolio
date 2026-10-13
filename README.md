@@ -28,35 +28,6 @@ A modern personal portfolio website built with React, Vite, and Tailwind CSS. Th
 
 ---
 
-## 🚀 Local Development
-
-### Prerequisites
-
-- Node.js 18+
-- npm
-
-### Install and run
-
-```bash
-npm install
-npm run dev
-```
-
-Then open:
-
-```bash
-http://localhost:5173
-```
-
-### Production build
-
-```bash
-npm run build
-npm run preview
-```
-
----
-
 ## 📁 Project Overview
 
 This portfolio includes:
@@ -68,24 +39,6 @@ This portfolio includes:
 - Skills breakdown
 - Project showcase
 - Contact form and social links
-
----
-
-## 🚀 Deployment
-
-### Vercel
-
-1. Push the project to GitHub
-2. Import it into Vercel
-3. Select the Vite project settings
-4. Deploy
-
-### Netlify
-
-1. Push the project to GitHub
-2. Import it into Netlify
-3. Use the build command: `npm run build`
-4. Publish the `dist` folder
 
 ---
 
