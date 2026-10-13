@@ -2,10 +2,6 @@
 
 A modern personal portfolio website built with React, Vite, and Tailwind CSS. The site showcases my work, experience, education, skills, and contact information in a polished, responsive layout.
 
-![React](https://img.shields.io/badge/React-18+-61DAFB?style=flat-square&logo=react)
-![Vite](https://img.shields.io/badge/Vite-Latest-646CFF?style=flat-square&logo=vite)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.0+-06B6D4?style=flat-square&logo=tailwindcss)
-
 ---
 
 ## ✨ Highlights
