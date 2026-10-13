@@ -91,9 +91,9 @@ This portfolio includes:
 
 ## 📞 Contact
 
-- Email: [muhammadarham2177@gmail.com](mailto:muhammadarham2177@gmail.com)
-- LinkedIn: [linkedin.com/in/muhammad-arham-b12683331](https://www.linkedin.com/in/muhammad-arham-b12683331)
-- GitHub: [github.com/muhammad-arham-dev](https://github.com/muhammad-arham-dev)
+- Email: [mdwasimlesnar0029@gmail.com](mailto:mdwasimlesnar0029@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/md-wasim-ansari-b78865395/](https://www.linkedin.com/in/md-wasim-ansari-b78865395/)
+- GitHub: [https://github.com/Wasim2934](https://github.com/Wasim2934)
 
 ---
 
