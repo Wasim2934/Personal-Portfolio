@@ -16,7 +16,7 @@ export const profile = {
   linkedin: "https://www.linkedin.com/in/md-wasim-ansari-b78865395/",
   github: "https://github.com/Wasim2934",
 
-  resumeUrl: "/Md-Wasim-Ansari-Resume.pdf",
+  resumeUrl: "md-wasim-ansari-resume.pdf", 
 
   avatar: "/profile.jpeg",
   creation: "/hero.jpg",
