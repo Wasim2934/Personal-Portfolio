@@ -1,8 +1,3 @@
-// ---------------------------------------------------------------------------
-// All portfolio content lives here. Edit this file to update the site —
-// you shouldn't need to touch the component files for text changes.
-// ---------------------------------------------------------------------------
-
 export const profile = {
   name: "Md Wasim Ansari",
   firstName: "Md Wasim",
