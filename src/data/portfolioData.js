@@ -149,8 +149,7 @@ export const experience = [
   },
 ];
 
-//  swap `repo` / `live` with your real links, and drop a screenshot into
-// /public for each project (see the `image` field) 
+
 export const projects = [
   {
     id: "lenz-pricing",
